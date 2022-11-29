@@ -1,5 +1,5 @@
 ## **Rexon Privacy Policy**
-### By using Flint Bot, you agree with its privacy policy.
+### By using Rexon Bot, you agree with its privacy policy.
 
 ## 1. What does it store?
 
